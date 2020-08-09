@@ -1,0 +1,6 @@
+{
+    "enviroment" : {
+    "test": "http://192.168.1.1",
+    "production": "http://103.27.236.150:84"
+    }
+  }
